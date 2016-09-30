@@ -1,0 +1,9 @@
+.bg-wallpaper{
+	background-image: url(https://cdn.kde.org/img/bg.png); */
+	background-repeat: repeat;
+	image-rendering: optimizeSpeed;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: -webkit-optimize-contrast;
+	image-rendering: optimize-contrast;
+	-ms-interpolation-mode: nearest-neighbor;
+}

@@ -9,4 +9,4 @@ Vanessaezekowitz:
 
 res/img/minetest-logo.svg
 This is a file from the Wikimedia Commons.
-CC-BY-BY-SA 1.0
+CC-BY-SA 1.0
